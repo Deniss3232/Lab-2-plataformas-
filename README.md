@@ -1,4 +1,4 @@
-# Laboratorio #2 - Jetpack Compose
+# Laboratorio #2 - 21151
 
 ## Descripción
 Esta es una aplicación simple creada como parte del Laboratorio 2 del curso. Utiliza Jetpack Compose para construir la interfaz de usuario.
